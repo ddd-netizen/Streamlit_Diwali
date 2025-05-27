@@ -7,7 +7,7 @@ import plotly.express as px
 
 st.title("Diwali Sales Data Dashboard")
 
-df=pd.read_csv(r'C:\Users\LOLT\OneDrive\Desktop\Streamlit\Diwali Sales Data.csv', encoding='unicode_escape')
+df=pd.read_csv(r'C:\Users\LOLT\OneDrive\Desktop\Streamlit\Python_Diwali_Sales_Analysis\Diwali Sales Data.csv', encoding='unicode_escape')
 
 
 
